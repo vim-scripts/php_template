@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1307
+
+ This filetype plugin provides a couple of code templates for PHP5
+ development. The code is formatted according to PEAR Coding Standards.
+
+ The three provided templates are:
+  - Class file template
+  - Method docblock template
+  - Field getter and setter template
+
+
